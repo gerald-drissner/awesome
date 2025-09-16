@@ -536,6 +536,8 @@ Make YOURLS work with other platforms, programming languages or tools.
   - [YOURLS](https://chrome.google.com/webstore/detail/yourls/nddaaiojgkoldnhnmkoldmkeocbooken)
 - Firefox
   - [YOURLS shortener](https://addons.mozilla.org/en-US/firefox/addon/yourls-shortener/)
+- Thunderbird
+  - [Kurl Yourls Shortener](https://services.addons.thunderbird.net/en-US/thunderbird/addon/kurl-yourls-shortener) - A Thunderbird add-on to shorten URLs with YOURLS, with features like QR code generation, a dashboard, and the ability to delete links.
 - Mac
   - [Short Menu](https://shortmenu.com/mac/) - Available for $6 from the App Store or directly from the developer (See also: [Setup instructions](https://shortmenu.com/support/custom-services/yourls/)).
 - Windows
