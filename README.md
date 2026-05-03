@@ -518,9 +518,9 @@ Make YOURLS work with other platforms, programming languages or tools.
 - [VB .Net](https://www.nugardt.com/open-source/yourls-api/) - A VB .Net 4.0 wrapper for the YOURLS API.
 - WordPress
   - [YOURLS Link Creator](https://wordpress.org/plugins/yourls-link-creator/)
+  - [kURL – Short URL Manager for YOURLS](https://wordpress.org/plugins/kurl-short-url-manager-yourls/) - Create, sync, manage, and track YOURLS short URLs from the WordPress admin area.
   - [YOURLS Widget](https://gist.github.com/joshp23/3f990e6ec36e24ba53985968bbfa89f1) - Fetch and display YOURLS links and a QR code in a widget.
   - There are numerous [WordPress plugins](https://wordpress.org/plugins/search/yourls/) with YOURLS support.
-
 
 ### Applications
 
@@ -534,10 +534,12 @@ Make YOURLS work with other platforms, programming languages or tools.
   - [Short Menu](https://shortmenu.com/ios/) - YOURLS support requires a one-time in-app purchase of about $2 USD (See also: [Setup instructions](https://shortmenu.com/support/custom-services/yourls/)).
 - Chrome
   - [YOURLS](https://chrome.google.com/webstore/detail/yourls/nddaaiojgkoldnhnmkoldmkeocbooken)
+  - [kURL – YOURLS Shortener](https://chromewebstore.google.com/detail/kurl-yourls-shortener/bkhapbcnncajgoilfennekfegkpbhalk) - A Chrome extension to shorten the current page or custom URLs with a self-hosted YOURLS instance.
 - Firefox
   - [YOURLS shortener](https://addons.mozilla.org/en-US/firefox/addon/yourls-shortener/)
+  - [kURL – YOURLS Shortener](https://addons.mozilla.org/firefox/addon/kurl-yourls-shortener/) - A Firefox add-on to shorten the current page or custom URLs with a self-hosted YOURLS instance.
 - Thunderbird
-  - [Kurl Yourls Shortener](https://services.addons.thunderbird.net/en-US/thunderbird/addon/kurl-yourls-shortener) - A Thunderbird add-on to shorten URLs with YOURLS, with features like QR code generation, a dashboard, and the ability to delete links.
+  - [kURL – YOURLS Shortener](https://services.addons.thunderbird.net/thunderbird/addon/kurl-yourls-shortener/) - A Thunderbird add-on to shorten URLs with YOURLS, with features like QR code generation, a dashboard, and link deletion.
 - Mac
   - [Short Menu](https://shortmenu.com/mac/) - Available for $6 from the App Store or directly from the developer (See also: [Setup instructions](https://shortmenu.com/support/custom-services/yourls/)).
 - Windows
